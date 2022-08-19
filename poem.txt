@@ -1,4 +1,4 @@
-The Rainbow
+The Rainbow and the Unicorn and the Pony
 Purple
 Pink
 Orange
@@ -9,4 +9,5 @@ Unicorn
 Yellow
 Red
 these are the colors of the rainbow.
-And the unicorn
+And the unicorn.
+Pony
